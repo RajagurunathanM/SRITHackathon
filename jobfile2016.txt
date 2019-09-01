@@ -1,0 +1,23 @@
+
+///////////////2016 BATCH STUDENTS PLACEMENT DETAILS//////////
+
+
+|--------|----------------|----------------------|------------|
+|SI.NO:  |       NAME:    |     COMPANY:         |   SALARY:  |
+|--------|----------------|----------------------|------------|
+|1       |     Anand      |      TCS             |    2 Lakh  |
+|2       |     Akash	  |     CTS	         |    2 Lakh  |
+|3	 |     Ajith	  |    ACCENTURE	 |    1 Lakh  |
+|4       |     Abi        |      BOSCH           |    2 Lakh  |
+|5       |     Abinesh	  |     GOOGLE           |    2 Lakh  |
+|6       |     Babu       |      YAHOO	         |    1 Lakh  |
+|7       |     Chinna	  |     PAYTM            |    2 Lakh  |
+|8       |     Dani       |     L&T SPINS	 |    2 Lakh  |
+|9       |     Jeba	  |    XY ELECTRONICS    |    3 Lakh  |
+|10      |     Gokil	  |    AJ CONSTRUCTIONS  |    3 Lakh  |
+|11      |     Laxman	  |    TECHGIG           |    2 Lakh  |
+|12      |     Mari       |     INFOSYS          |    3 Lakh  |
+|13	 |     Vignesh    |     MECHCITY	 |    2 Lakh  |
+|14      |     Yokesh     |     WIPRO            |    1 Lakh  |
+|15	 |     Yogesh     |     TCS              |    2 Lakh  |
+|--------|----------------|----------------------|------------|

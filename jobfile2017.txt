@@ -1,0 +1,23 @@
+
+///////////////2017 BATCH STUDENTS PLACEMENT DETAILS///////////
+
+
+|--------|----------------|----------------------|------------|
+|SI.NO:  |       NAME:    |     COMPANY:         |   SALARY:  |
+|--------|----------------|----------------------|------------|
+|1       |     Arun       |      TCS             |    2 Lakh  |
+|2       |     Akash	  |     CTS	         |    2 Lakh  |
+|3	 |     Abijith	  |    ACCENTURE	 |    1 Lakh  |
+|4       |     Anand      |      BOSCH           |    2 Lakh  |
+|5       |     Abinesh	  |     GOOGLE           |    3 Lakh  |
+|6       |     Bala       |      YAHOO	         |    2 Lakh  |
+|7       |     Charli	  |     PAYTM            |    1 Lakh  |
+|8       |     Dhamu      |     L&T SPINS	 |    2 Lakh  |
+|9       |     Justin	  |    XY ELECTRONICS    |    3 Lakh  |
+|10      |     kalai	  |    AJ CONSTRUCTIONS  |    3 Lakh  |
+|11      |     kavin	  |    TECHGIG           |    2 Lakh  |
+|12      |     Sathish    |     INFOSYS          |    1 Lakh  |
+|13	 |     Vikram     |     MECHCITY	 |    2 Lakh  |
+|14      |     Vijay      |     WIPRO            |    3 Lakh  |
+|15	 |     Vinu       |     TCS              |    2 Lakh  |
+|--------|----------------|----------------------|------------|

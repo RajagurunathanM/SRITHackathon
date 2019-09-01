@@ -1,0 +1,21 @@
+
+////COMPANIES PARTICIPATED IN CAMPUS PLACEMENT-2015//////
+
+
+|--------|--------------------|------------|
+|SI.NO:  |       COMPANY:     |  SALARY:   |
+|--------|--------------------|------------|
+|1	 |	CTS	      |	 1 Lakh    |
+|2	 |	TCS           |  1 Lakh    |
+|3	 |     GOOGLE         |  1 Lakh    |
+|4	 |    ACCENTURE       |  3 Lakh    |
+|5       |      BOSCH	      |  2 Lakh    |
+|6       |    AJ CONSTRUCTION |  1 Lakh    |
+|7	 |      PAYTM         |  2 Lakh    |
+|8       |      INFOSYS       |  3 Lakh    |
+|9	 |      WIPRO         |  1 Lakh    |
+|10	 |     XY ELECTRONICS |  1 Lakh    |
+|11	 |     TECHGIG        |  1 Lakh    |
+|12      |     MECHCITY       |  1 Lakh    |
+|13	 |    L&T SPIN        |  2 Lakh    |
+|--------|--------------------|------------|

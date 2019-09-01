@@ -1,0 +1,23 @@
+
+////COMPANIES PARTICIPATED IN CAMPUS PLACEMENT-2017//////
+
+
+|--------|--------------------|------------|
+|SI.NO:  |       COMPANY:     |  SALARY:   |
+|--------|--------------------|------------|
+|1	 |	CTS	      |	 1 Lakh    |
+|2	 |	TCS           |  2 Lakh    |
+|3	 |     GOOGLE         |  3 Lakh    |
+|4	 |    ACCENTURE       |  3 Lakh    |
+|5       |      BOSCH	      |  1 Lakh    |
+|6       |    AJ CONSTRUCTION |  2 Lakh    |
+|7	 |      PAYTM         |  3 Lakh    |
+|8       |      INFOSYS       |  3 Lakh    |
+|9	 |      WIPRO         |  2 Lakh    |
+|10      |     MECHCITY       |  1 Lakh    |
+|11      |    TECHGIG         |  2 Lakh    |
+|12      |    abc comp        |  1 Lakh    |
+|
+
+13	 |    L&T SPIN        |  3 Lakh    |
+|--------|--------------------|------------|
